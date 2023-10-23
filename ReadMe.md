@@ -1,6 +1,6 @@
 # Instructions for Calculating TDMs and Zeeman Structure
 
-Make sure to follow these steps carefully to calculate the theoretical values of Transition Dipole Moments (TDMs) and the Zeeman structure of the excited state as described in the paper <a href="https://arxiv.org/abs/2303.16144v1" target="_top">[arXiv:2303.16144v1]</a>.
+Make sure to follow these steps carefully to calculate the theoretical values of Transition Dipole Moments (TDMs) and the Zeeman structure of the excited state as described in the paper <a href="https://arxiv.org/abs/2303.16144" target="_top">[arXiv:2303.16144]</a>.
 
 1. **Zeeman Structure for Excited State (Fig. 2(b)):**
    - Run the `zeeman.nb` file following the instructions provided within.
